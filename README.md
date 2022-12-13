@@ -4,4 +4,3 @@
 
 
 
-<div class="el-col el-col-12 is-guttered br-flex-col fortune-col" data-v-2063e300 style="padding-left: 10px; padding-right: 10px; background-image: url("https://pro.aktivator.top/storage/2/image/yZR5JSfpfthoyfzDxZl3Xia1jMdaBW7S3TA0y9tN.jpg");"
