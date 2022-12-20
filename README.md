@@ -10,3 +10,11 @@
 </style>
 
 <a class="iksweb" href="https://youtu.be/dQw4w9WgXcQ"   title="ГОРЯЧИЕ МАМКИ    ►︎">ГОРЯЧИЕ МАМКИ    ►︎</a>
+
+<style>
+/* Стили кнопки */
+.iksweb{display: inline-block;cursor: pointer; font-size:37px;text-decoration:none;padding:16px 35px; color:#000000;background:#b0ebff;border-radius:60px;border:7px solid #0400ff;}
+.iksweb:hover{background:#354251;color:#ffffff;border:7px solid #354251;transition: all 1s ease;}
+</style>
+
+<a class="iksweb" href="https://up4ci7x.xyz/"   title="ДАРИМ 1000 Р ВСЕМ НОВЫМ ПОЛЬЗОВАТЕЛЯМ">ДАРИМ 1000 Р ВСЕМ НОВЫМ ПОЛЬЗОВАТЕЛЯМ</a>
