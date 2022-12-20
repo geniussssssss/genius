@@ -4,8 +4,6 @@
 <iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=213&lang=ru&layout=horiz&type=analog&face=serif"></iframe>
 <iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=202&lang=ru&layout=horiz&type=analog&face=serif"></iframe>
 <iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=10393&lang=ru&layout=horiz&type=analog&face=serif"></iframe>
-<iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=10636&lang=ru&layout=horiz&type=analog&face=serif"></iframe>
-
 
 
 <style>
