@@ -4,7 +4,7 @@
 
 
 <style>
-.button_1670219830657 {
+<button_1670219830657 {
     display: inline-block !important;
     text-decoration: none !important;
     background-color: #FF8C00 !important;
@@ -15,7 +15,7 @@
     padding: 15px 50px !important; 
     transition: all 1.2s ease !important;
 }
-.button_1670219830657:hover{
+<button_1670219830657:hover{
     text-decoration: none !important; 
     background-color: #000000 !important;
     color: #FF8C00 !important;
