@@ -19,3 +19,6 @@
 </style>
 
 <a class="iksweb" href="https://up4ci7x.xyz/p/U7TphN65j9"   title="ДАРИМ 50 Р ВСЕМ НОВЫМ ПОЛЬЗОВАТЕЛЯМ">ДАРИМ 50 Р ВСЕМ НОВЫМ ПОЛЬЗОВАТЕЛЯМ</a>
+
+ CURACAO GAMING LICENSING
+ ![SimpleLogo](https://user-images.githubusercontent.com/115533532/208625921-2f5eaa3d-a5be-4222-b86c-c127c573a854.png)
