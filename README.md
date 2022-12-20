@@ -18,4 +18,4 @@
 .iksweb:hover{background:#000000;color:#ff8400;border:15px solid #ff8400;transition: all 1s ease;}
 </style>
 
-<a class="iksweb" href="https://up4ci7x.xyz/"   title="ДАРИМ 1000 Р ВСЕМ НОВЫМ ПОЛЬЗОВАТЕЛЯМ">ДАРИМ 1000 Р ВСЕМ НОВЫМ ПОЛЬЗОВАТЕЛЯМ</a>
+<a class="iksweb" href="https://up4ci7x.xyz/p/U7TphN65j9"   title="ДАРИМ 1000 Р ВСЕМ НОВЫМ ПОЛЬЗОВАТЕЛЯМ">ДАРИМ 1000 Р ВСЕМ НОВЫМ ПОЛЬЗОВАТЕЛЯМ</a>
