@@ -1,7 +1,11 @@
 # geniussssssss.github.io
 ![01](https://user-images.githubusercontent.com/115533532/208622802-4979bc58-8ed9-40bf-9b88-be25a4b67fc7.jpg)
 
-<iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=11353&lang=ru&layout=horiz&type=analog&face=serif"></iframe>
+<iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=213&lang=ru&layout=horiz&type=analog&face=serif"></iframe>
+<iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=202&lang=ru&layout=horiz&type=analog&face=serif"></iframe>
+<iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=10393&lang=ru&layout=horiz&type=analog&face=serif"></iframe>
+<iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=10636&lang=ru&layout=horiz&type=analog&face=serif"></iframe>
+
 
 
 <style>
