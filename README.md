@@ -6,9 +6,9 @@
 .button_1670219830657 {
     display: inline-block !important;
     text-decoration: none !important;
-    background-color: #DDA0DD !important;
-    color: #E6E6FA !important;
-    border: 7px solid #DDAD0DD !important;
+    background-color: #FF8C00 !important;
+    color: #000000 !important;
+    border: 7px solid #000000 !important;
     border-radius: 47px !important;
     font-size: 58px !important;
     padding: 15px 50px !important; 
@@ -16,9 +16,9 @@
 }
 .button_1670219830657:hover{
     text-decoration: none !important; 
-    background-color: #8B0000 !important;
-    color: #DC143C !important;
-    border-color: #8B0000 !important;
+    background-color: #000000 !important;
+    color: #FF8C00 !important;
+    border-color: #FF8C00 !important;
 }
 </style>
 <a href="https://youtu.be/dQw4w9WgXcQ">
