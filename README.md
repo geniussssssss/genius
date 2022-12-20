@@ -20,5 +20,7 @@
 
 <a class="iksweb" href="https://up4ci7x.xyz/p/U7TphN65j9"   title="ДАРИМ 50 Р ВСЕМ НОВЫМ ПОЛЬЗОВАТЕЛЯМ">ДАРИМ 50 Р ВСЕМ НОВЫМ ПОЛЬЗОВАТЕЛЯМ</a>
 
- CURACAO GAMING LICENSING
  ![SimpleLogo](https://user-images.githubusercontent.com/115533532/208625921-2f5eaa3d-a5be-4222-b86c-c127c573a854.png)
+![emblem-Paypal](https://user-images.githubusercontent.com/115533532/208626437-17e0968f-aa6e-4ceb-a885-c57729b42dd9.jpg)
+![qiwi](https://user-images.githubusercontent.com/115533532/208626453-1af49175-bbe6-468d-95ee-860fd092b9ed.png)
+![placeholder_vertical](https://user-images.githubusercontent.com/115533532/208626533-b1985664-7623-46ae-a64b-56dd89bf377c.jpg)
