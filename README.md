@@ -6,9 +6,9 @@
 .button_1670219830657 {
     display: inline-block !important;
     text-decoration: none !important;
-    background-color: #D8BFD8 !important;
+    background-color: #DDA0DD !important;
     color: #E6E6FA !important;
-    border: 7px solid #D8BFD8 !important;
+    border: 7px solid #DDAD0DD !important;
     border-radius: 47px !important;
     font-size: 58px !important;
     padding: 15px 50px !important; 
